@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## you can run:
 
-### `git clone https://github.com/aylinyildiz/react-search-bar.git`
+### git clone https://github.com/aylinyildiz/react-search-bar.git
 
 ### `npm install`
 
